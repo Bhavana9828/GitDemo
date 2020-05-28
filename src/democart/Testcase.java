@@ -15,6 +15,7 @@ public class Testcase extends Library{
 	public void start() throws IOException {
 		launchApplication();
      	openWebsite();
+     	System.out.println("page is opened");
 
 	}
 
